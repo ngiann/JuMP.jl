@@ -1074,6 +1074,8 @@ include("objective.jl")
 include("aff_expr.jl")
 include("quad_expr.jl")
 include("nlp.jl")
+include("nlp_expr.jl")
+
 include("macros.jl")
 include("optimizer_interface.jl")
 
