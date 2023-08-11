@@ -94,6 +94,7 @@ Alternatives to consider are:
  * [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
  * [Optimization.jl](https://github.com/SciML/Optimization.jl)
  * [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl)
+ * [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl)
 
 ### Optimal control problems
 
